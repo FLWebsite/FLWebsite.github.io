@@ -1,0 +1,120 @@
+.content {
+    display: none;
+    word-spacing: 20px;
+    text-align: center;
+    font-family: roboto condensed,sans-serif;
+    text-transform: uppercase;
+    font-size: 10px;
+    letter-spacing: 2px;
+    color: rgb(50, 55, 56); 
+    margin: 0 auto;
+  }
+
+
+.background {
+    opacity: .5;
+    width:1360px;
+   height:450px;
+   padding-bottom:-20px;
+}
+
+
+.title {
+    background-image: url(https://cdn.discordapp.com/attachments/662011210824417323/663786645253914634/213.png); width: 1360px; height: 450px; padding-top: -10px; z-index: 500;
+text-align: center;
+font-family: roboto condensed,sans-serif;
+text-transform: uppercase;
+margin-bottom: -30px !important;
+font-size: 15px;
+letter-spacing: 4px;
+color: rgb(50, 55, 56); 
+
+}
+
+.body { 
+    background-color: #f8d8f7;
+}
+
+.main-myButton {
+    border: none;
+    background-color: inherit;
+}
+
+
+   #aboutus {
+       margin-top: 30px;
+       text-align: center;
+font-family: roboto condensed,sans-serif;
+font-size: 15px;
+letter-spacing: 1px;
+color: rgb(50, 55, 56); 
+background-color: white;
+    }
+
+    .buton { 
+        text-align: center;
+font-family: roboto condensed,sans-serif;
+text-transform: uppercase;
+font-size: 10px;
+letter-spacing: 1px;
+color: rgb(50, 55, 56); 
+    }
+  #members {
+    text-align: center;
+    font-family: roboto condensed,sans-serif;
+    text-transform: uppercase;
+    font-size: 15px;
+    letter-spacing: 4px;
+    color: rgb(50, 55, 56); 
+    margin: 0 auto;
+    background-color: white;
+  }
+
+  a {
+      text-decoration: none
+  }
+
+
+  .au {
+    word-spacing: 5px;
+    text-align: left;
+    font-family: roboto condensed,sans-serif;
+    text-transform: uppercase;
+    font-size: 10px;
+    letter-spacing: 2px;
+    color: rgb(50, 55, 56); 
+    margin: 0 auto;
+  }
+
+  .ml {
+    word-spacing: 5px;
+    text-align: left;
+    font-family: roboto condensed,sans-serif;
+    text-transform: uppercase;
+    font-size: 10px;
+    letter-spacing: 2px;
+    color: rgb(50, 55, 56); 
+    margin: 0 auto;
+  }
+
+  .cu {
+    word-spacing: 5px;
+    text-align: left;
+    font-family: roboto condensed,sans-serif;
+    text-transform: uppercase;
+    font-size: 10px;
+    letter-spacing: 2px;
+    color: rgb(50, 55, 56); 
+    margin: 0 auto;
+  }
+
+  .cg {
+    word-spacing: 5px;
+    text-align: left;
+    font-family: roboto condensed,sans-serif;
+    text-transform: uppercase;
+    font-size: 10px;
+    letter-spacing: 2px;
+    color: rgb(50, 55, 56); 
+    margin: 0 auto;
+  }

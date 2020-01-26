@@ -1,0 +1,172 @@
+body { 
+    background-color: #f8d8f7;
+}
+
+.main-myButton {
+    border: none;
+    background-color: inherit;
+    position: fixed-top;
+}
+
+.content {
+    display: none;
+    word-spacing: 40px;
+    text-align: center;
+    font-family: roboto condensed,sans-serif;
+    text-transform: uppercase;
+    font-size: 10px;
+    letter-spacing: 2px;
+    color: rgb(50, 55, 56); 
+    margin: 0 auto;
+  }
+  .about {
+    word-spacing: 5px;
+    text-align: left;
+    font-family: roboto condensed,sans-serif;
+    text-transform: uppercase;
+    font-size: 10px;
+    letter-spacing: 2px;
+    color: rgb(50, 55, 56); 
+    margin: 0 auto;
+  }
+  
+  a {
+    text-decoration: none
+}
+
+
+
+
+body.overlay::before {
+  content: '';
+  display: block;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, .6);
+  opacity: .2;
+  position: absolute;
+  z-index: -10;
+}
+
+.background {
+  opacity: .5;
+  width:1360px;
+ height:450px;
+ padding-bottom:-20px;
+}
+
+.navigationbar {
+  position: fixed-top;
+  z-index: 1000;
+}
+
+
+.title {
+text-align: center;
+font-family: roboto condensed,sans-serif;
+text-transform: uppercase;
+margin-bottom: -30px !important;
+font-size: 15px;
+letter-spacing: 4px;
+color: rgb(50, 55, 56); 
+
+}
+
+.main-myButton {
+  border: none;
+  background-color: inherit;
+}
+
+
+
+ #aboutus {
+     margin-top: 30px;
+     text-align: center;
+font-family: roboto condensed,sans-serif;
+font-size: 15px;
+letter-spacing: 1px;
+color: rgb(50, 55, 56); 
+background-color: white;
+  }
+
+  .buton { 
+      text-align: center;
+font-family: roboto condensed,sans-serif;
+text-transform: uppercase;
+font-size: 10px;
+letter-spacing: 1px;
+color: rgb(50, 55, 56); 
+  }
+#members {
+  text-align: center;
+  font-family: roboto condensed,sans-serif;
+  text-transform: uppercase;
+  font-size: 15px;
+  letter-spacing: 4px;
+  color: rgb(50, 55, 56); 
+  margin: 0 auto;
+  background-color: white;
+}
+
+.guidelines {
+ text-align: center; 
+ font-family: 'Montserrat', sans-serif;
+}
+.rules {
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.st1 {
+    display: none;
+}
+.n1 {
+    color: rgb(241, 38, 38);
+}
+button { 
+    text-align: center;
+font-family: roboto condensed,sans-serif;
+text-transform: uppercase;
+font-size: 10px;
+letter-spacing: 1px;
+color: rgb(50, 55, 56); 
+border: 1px solid #a8aeb8;
+border-top: 1px;
+background-color: inherit;
+}
+
+.au {
+    word-spacing: 3px;
+}
+
+.ml {
+    
+    word-spacing: 3px;
+}
+
+.cu {
+    word-spacing: 3px;
+}
+
+.cg {
+    word-spacing: 3px;
+}
+
+.st2 {
+    display: none;
+}
+
+.twend {
+    margin-top: 40px;
+
+}
+
+.midinfo {
+    margin-top: 50px;
+}
+
+text {
+    font-family: 'Montserrat', sans-serif;
+}
